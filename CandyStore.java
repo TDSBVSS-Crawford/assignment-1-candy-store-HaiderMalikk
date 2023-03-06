@@ -47,7 +47,7 @@ public class CandyStore {
         double grandTotal = subtotal + tax;
         System.out.printf("Grand Total: $%.2f%n", grandTotal);
         // recipt end
-    }// main
+    } // end main
 
     // candy choice menu
     public static String candyChoices() {
